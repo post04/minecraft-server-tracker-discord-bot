@@ -1,0 +1,7 @@
+{
+    "prefix": ".",
+    "cat": "category id of the category for the channels used for tracking, you can find this by enabling developer mode shown in this video: https://www.youtube.com/watch?v=RI3_Z0AEMck then right clicking the category and copying the id.",
+    "permission": "ADMINISTRATOR",
+    "serverid": "main server id, you can find this by following this video: https://www.youtube.com/watch?v=RI3_Z0AEMck",
+    "token": "discord bot token, if you can't get your follow this: https://discordpy.readthedocs.io/en/latest/discord.html"
+}
